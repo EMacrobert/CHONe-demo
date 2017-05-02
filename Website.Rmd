@@ -1,0 +1,12 @@
+---
+title: "Evelyn's Website"
+output:
+  html_document: default
+  html_notebook: default
+---
+##CHONe 2 Data Management Workshop
+
+
+
+I am a Master's student at MUN. I am researching how predator movements influences juvenile cod distribution withing eelgrass habitat [CHONe Project 1.2.1](https://chone2.ca/find-research/contribution-nearshore-coastal-zone-nurseries-offshore-capture-fisheries/).
+My supervisors are Dr. Bob Gregory and Dr. Paul Snelgrove.
