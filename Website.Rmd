@@ -4,7 +4,7 @@ output:
   html_document: default
   html_notebook: default
 ---
-##CHONe 2 Data Management Workshop
+###CHONe 2 Data Management Workshop
 
 
 
